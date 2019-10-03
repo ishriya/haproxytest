@@ -15,7 +15,7 @@ author: "Ishwariya Raveendran"
 description: "PG-Backflip"
 
 # Path to the network service we want to profile (relative from PED location)
-service_package: "../services/ns_proxy"
+service_package: "../services/ns_haproxy"
 
 # Experiment definition
 service_experiments:
